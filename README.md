@@ -7,6 +7,7 @@ ini adalah sebuah aplikasi yang saya buat untuk tugas akhir di SMK kelas 11 seme
 - tree.txt (tidak penting)
 - error_log (tidak penting)
 - index.php (file utama)
+- ta_iuran_spp.sql (database yang digunakan didalam aplikasi ini)
 
 ### Folder
 - Layout (layout utama dalam aplikasi ini (seperti header, footer dan sebagainya))
