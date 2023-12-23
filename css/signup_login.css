@@ -1,0 +1,78 @@
+.login-signup-main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D5EC88;
+}
+
+.fieldset_signup{
+    height: 100%;
+    background-color: #6F9F77;
+    border: none;
+    border-radius: 10px;
+    width: 700px;
+}
+
+.signup{
+    font-weight: bold;
+    padding-left: 50px;
+    font-size: 32px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tabel_info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nama{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer-login-signup-container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: 100%;
+}
+
+.action-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup_button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5%;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.signup_button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.signup_button:active {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.akun{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+
+.link{
+    text-decoration: none;
+    color:#1D262B ;
+}
